@@ -56,6 +56,7 @@ body
     min-width: 96px;
     background-color: #1a73e8;
     border: none;
+    outline: none;
     color: white;
     padding: 9px 23px;
     text-align: center;

@@ -2,7 +2,7 @@
 Zuri Training Tasks Personal Repository
 
 Task 1
-Google Home Page recreation 
+Google Home Page recreation  : https://yourgotopyromaniac.github.io/Zuri_Tasks/Google/index.html#
 
 Few notes : 
 
